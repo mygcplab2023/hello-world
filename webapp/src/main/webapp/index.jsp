@@ -12,6 +12,10 @@
     <input type="text" placeholder="Enter Location Name" name="Location" id="Location" required>
     <br>
     
+    <label for="State"><b>Enter State</b></label>
+    <input type="text" placeholder="Enter State Name" name="State" id="State" required>
+    <br>
+    
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
